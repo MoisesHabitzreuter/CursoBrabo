@@ -10,7 +10,7 @@ namespace GitTeste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("o curso é muito brabo!!!!!!!!!");
+            Console.WriteLine("O CURSO É MUITO BRABO!");
 
         }
     }
